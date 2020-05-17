@@ -54,6 +54,7 @@ plugins:
 #   - vendor/ruby/
 
 exclude:
+  - .idea  
   - docs
   - Gemfile
   - Gemfile.lock
