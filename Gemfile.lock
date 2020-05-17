@@ -245,7 +245,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (~> 204)
-  jekyll (~> 3.8.0)
   jekyll-feed
   jekyll-theme-clean-blog
 
