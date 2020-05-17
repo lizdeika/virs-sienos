@@ -27,7 +27,7 @@ Kodėl čia pastorintai dabar kažkokie valgymai?<br>
 Normaliai valgydamas žmogus bent parai laiko turi medžiagų, kad nebadauti. Ai bet nesiplėskim čia.<br>
 Tik tam, kad suprasti šios dienos bėgimą.<br>
 Taigi kelis mėnesius valgau mažame 4-6val intervale per parą. Ir viskas. Likusias 18val. maistas neegzistuoja. Beje jokio keto ar panašaus spec maisto atrinkimo. Tiesiog subalansuota mityba ir atsitiktiniai paišdykavimai su picom, kebabais, saldumynais ir kitu _uždraustuoju_ maistu iš neuždraustųjų viešojo maitinimo įstaigų :D<br>
-Esminis pokytis - ypatingai padidintas jautrumas insulinui. Ei! Būtent to, ko ir reikia!
+Esminis pokytis - ypatingai padidintas jautrumas insulinui. Ei! Būtent tai, ko ir reikia!
 
 <br>Rytas<br><br>
 
