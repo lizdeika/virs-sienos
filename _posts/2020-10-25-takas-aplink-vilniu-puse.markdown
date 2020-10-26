@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Takas aplink Vilnių. Pirmoji pusė"
-date: 2020-10-25 14:22:13 +0300
+date: 2020-10-25 14:22:14 +0300
 categories: ultra
 ---
 
@@ -19,7 +19,8 @@ Vertas patirti.<br><br>
 Savarankiškam bėgtelėjimui susirinkau tokį galimų maitinėlių sąrašą, kur turėtų būti vandens ir maisto.<br><br>
 **PASTABOS**: vietos su klaustuku reiškia, kad nežinia ar ten galima gauti vandens, ar veikia ir pan.<br>
 Išvardintos degalinės, kavinės ir parduotuvės nebūtinai yra matomos iš tako.<br>
-Asmeniškai išbandytos pirmoje tako pusėje yra "23 - Orlen, Pavilnys Iki" bei "42 - Aibė"
+Asmeniškai išbandytos pirmoje tako pusėje yra<br>
+"23 - Orlen, Pavilnys Iki" bei "42 - Aibė"
 
 <br>
 
@@ -37,6 +38,7 @@ Asmeniškai išbandytos pirmoje tako pusėje yra "23 - Orlen, Pavilnys Iki" bei 
 - 46 - Neste, Hessburger
 - 48 - EMSI
 - 51 - Viada, Depo
+
 ---
 - 53 - Neste
 - 56 - Neste
