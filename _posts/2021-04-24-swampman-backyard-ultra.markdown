@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Swampman Backyard Ultra"
+title: "SwampMan Backyard Ultra"
 date: 2021-04-24 09:00:00 +0300
 categories: ultra
 ---
@@ -8,7 +8,7 @@ categories: ultra
 ### Backyard ultra.
 ~6,5km ciklas per 1val. Bėgi kol nebespėji pabaigti ciklo per vieną valandą arba tiesiog pasitrauki.<br>
 Formatas leidžiantis labai ilgai nepavargstant sukti ratelius, nes tarp ciklų pailsi ir pavalgai.<br>
-Bet čia ir susipažįstam su Swampman prieskoniais beigi pagardais.<br>
+Bet čia ir susipažįstam su SwampMan prieskoniais beigi pagardais.<br>
 Tai yra netoli finišo tiesiosios (likus ~1km) pasinėrimas į tiesiog pelkę…<br>
 400-500m snarglių, nevilties, keiksmažodžių, džiaugsmo ir ašarų.<br>
 
