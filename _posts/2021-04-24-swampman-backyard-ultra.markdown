@@ -7,10 +7,10 @@ categories: ultra
 
 ### Backyard ultra.
 ~6,5km ciklas per 1val. Bėgi kol nebespėji pabaigti ciklo per vieną valandą arba tiesiog pasitrauki.<br>
-Formatas leidžiantis labai ilgai nepavargstant sukti ratelius, nes tarp ciklų pailsi bei pavalgai.
-Bet čia ir susipažįstam su Swampman prieskoniais beigi pagardais.
-Tai yra netoli finišo tiesiosios (likus ~1km) pasinėrimas į tiesiog pelkę…
-400-500m snarglių, nevilties, keiksmažodžių, džiaugsmo ir ašarų.
+Formatas leidžiantis labai ilgai nepavargstant sukti ratelius, nes tarp ciklų pailsi bei pavalgai.<br>
+Bet čia ir susipažįstam su Swampman prieskoniais beigi pagardais.<br>
+Tai yra netoli finišo tiesiosios (likus ~1km) pasinėrimas į tiesiog pelkę…<br>
+400-500m snarglių, nevilties, keiksmažodžių, džiaugsmo ir ašarų.<br>
 
 Žemiau pateikiamas kontrolinis sąrašas įspūdžių kruopščiai surinktų per 15val. judesio.
 
