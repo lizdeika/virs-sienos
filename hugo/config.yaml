@@ -1,0 +1,56 @@
+baseURL: "https://sienos.eu"
+languageCode: "lt"
+defaultContentLanguage: "lt"
+title: "Virš sienos"
+
+theme: "PaperMod"
+paginate: 7
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # fuse search
+
+menu:
+  main:
+    - identifier: search
+      name: Paieška
+      url: /search/
+      weight: 10
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+params:
+  title: "Virš sienos"
+  description: "Kita perspektyva"
+  keywords: [Ultra]
+  author: Deividas J.
+  DateFormat: ":date_full"
+
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false
+
+  disableSpecial1stPost: true
+
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  searchHidden: false
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 500
+    threshold: 0.4
+    minMatchCharLength: 2
+    keys: ["title", "permalink", "summary", "content"]
