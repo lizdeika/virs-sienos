@@ -4,8 +4,8 @@ date: 2022-06-03T23:12:10+03:00
 tags: ["ultra"]
 ---
 
-Artėja vidurnaktis, aš einu į autobusą numeriu(raide?) M. Čia šilta, bet reikalavimas ilgos kelnės ir ilgos rankovės.<br>
-Gegužės pradžia, bet čia į pietus nuo Lietuvos, čia jau ganėtinai šilta.<br>
+Artėja vidurnaktis, aš einu į autobusą numeriu(raide?) M.<br>
+Gegužės pradžia, bet čia į pietus nuo Lietuvos, čia jau ganėtinai šilta, tačiau reikalavimas ilgos kelnės ir ilgos rankovės.<br>
 
 Autobuse jau važiuoja pora veikėjų. Arba K85 arba K110, nes tik šios trasos startuoja vidurnaktį.<br>
 Išlipu(veikėjai irgi išlipa) ir einu link stadiono trumpiausiu keliu per aikštelę per šoninius vartus, jau buvau čia prieš tai šiaip pasivaikščiot, paskui atsiimt startinio paketo, sutikrinti bėgimo paketą, išklausyti vadinamojo briefingo.<br>
