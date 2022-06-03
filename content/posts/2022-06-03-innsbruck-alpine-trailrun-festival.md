@@ -43,5 +43,4 @@ Artėju prie stadiono, artėju prie finišo, jau deklamuoja vardą pavardę. ~12
 Trasa pakankamai įvairi, gauni ir daug techniškų takelių su šaknim, akmenim ir purvu, plento, stačių įlipimų, greitų nusileidimų. Kartočiau.<br>
 
 Pasiruošimas:
-{{ $image := resources.Get "images/iatf_prep.png" }}
-<img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}">
+![pasiruošimas](images/iatf_prep.png)
