@@ -4,6 +4,7 @@ date: 2022-06-03T23:12:10+03:00
 tags: ["ultra"]
 ---
 
+
 <a href="/images/iatf_stuff.jpeg">
 ![manta](/images/iatf_stuff.jpeg)
 </a>
