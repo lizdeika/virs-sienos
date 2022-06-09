@@ -4,17 +4,13 @@ date: 2022-06-03T23:12:10+03:00
 tags: ["ultra"]
 ---
 
-
+![manta](/images/iatf_stuff.jpeg)
 Artėja vidurnaktis, aš einu į autobusą numeriu(raide?) M.<br>
 Gegužės pradžia, bet čia į pietus nuo Lietuvos, čia jau ganėtinai šilta, tačiau reikalavimas ilgos kelnės ir ilgos rankovės.<br>
 
 Autobuse jau važiuoja pora veikėjų. Arba K85 arba K110, nes tik šios trasos startuoja vidurnaktį.<br>
 Išlipu(veikėjai irgi išlipa) ir einu link stadiono trumpiausiu keliu per aikštelę per šoninius vartus, jau buvau čia prieš tai šiaip pasivaikščiot, paskui atsiimt startinio paketo, sutikrinti bėgimo paketą, išklausyti vadinamojo briefingo.<br>
 
-
-![manta](/images/iatf_stuff.jpeg)
-
-<br>
 Kojos lengvos, nebijau, nėra jaudulio. Yra jaudulys. Bet ne tas myžalinis. Jaudulys, kad tuoj prasidės “išėjimas” truksiantis 12-13val. Tiek pasiskaičiavau pagal savo galimybes įveikti K85 trasą, 80km aplink Innsbruką. Teko patirti taką aplink Vilnių? Tai čia panašiai tik Alpėse.<br>
 
 Alpės. Apsigyvenau Innsbruko centre, per kambario didelį langą visu didingumu, neatspėsi - Alpės. Gerai įsižiūrėjus matosi Seegrube viršūnė, po varžybų ten kopsiu.<br>
