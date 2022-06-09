@@ -4,6 +4,8 @@ date: 2022-06-03T23:12:10+03:00
 tags: ["ultra"]
 ---
 
+![manta](/images/iatf_stuff.png)
+
 Artėja vidurnaktis, aš einu į autobusą numeriu(raide?) M.<br>
 Gegužės pradžia, bet čia į pietus nuo Lietuvos, čia jau ganėtinai šilta, tačiau reikalavimas ilgos kelnės ir ilgos rankovės.<br>
 
