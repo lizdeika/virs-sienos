@@ -11,9 +11,9 @@ Gegužės pradžia, bet čia į pietus nuo Lietuvos, čia jau ganėtinai šilta,
 Autobuse jau važiuoja pora veikėjų. Arba K85 arba K110, nes tik šios trasos startuoja vidurnaktį.<br>
 Išlipu(veikėjai irgi išlipa) ir einu link stadiono trumpiausiu keliu per aikštelę per šoninius vartus, jau buvau čia prieš tai šiaip pasivaikščiot, paskui atsiimt startinio paketo, sutikrinti bėgimo paketą, išklausyti vadinamojo briefingo.<br>
 
-<a href="/images/iatf_stuff.jpeg">
+
 ![manta](/images/iatf_stuff.jpeg)
-</a>
+
 <br>
 Kojos lengvos, nebijau, nėra jaudulio. Yra jaudulys. Bet ne tas myžalinis. Jaudulys, kad tuoj prasidės “išėjimas” truksiantis 12-13val. Tiek pasiskaičiavau pagal savo galimybes įveikti K85 trasą, 80km aplink Innsbruką. Teko patirti taką aplink Vilnių? Tai čia panašiai tik Alpėse.<br>
 
