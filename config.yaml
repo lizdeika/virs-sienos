@@ -1,4 +1,4 @@
-baseURL: "https://sienos.eu"
+baseURL: "https://jopapa.lt"
 languageCode: "lt"
 defaultContentLanguage: "lt"
 title: "Virš sienos"
@@ -26,7 +26,7 @@ markup:
 
 params:
   title: "Virš sienos"
-  description: "Kita perspektyva"
+  description: "strikt"
   keywords: [Ultra]
   author: Deividas J.
   DateFormat: ":date_full"
