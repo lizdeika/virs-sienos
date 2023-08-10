@@ -1,7 +1,7 @@
 baseURL: "https://jopapa.lt"
 languageCode: "lt"
 defaultContentLanguage: "lt"
-title: &title "Toliai"
+title: &title "Su \"be nieko\""
 
 theme: "PaperMod"
 paginate: 7
