@@ -1,7 +1,7 @@
 baseURL: "https://jopapa.lt"
 languageCode: "lt"
 defaultContentLanguage: "lt"
-title: "Virš sienos"
+title: "Toliai"
 
 theme: "PaperMod"
 paginate: 7
@@ -25,7 +25,7 @@ markup:
       unsafe: true
 
 params:
-  title: "Virš sienos"
+  title: "Toliai"
   description: "strikt"
   keywords: [Ultra]
   author: Deividas J.
