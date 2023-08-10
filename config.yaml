@@ -31,6 +31,8 @@ params:
   author: Deividas J.
   DateFormat: ":date_full"
 
+  defaultTheme: auto
+
   ShowReadingTime: true
   ShowShareButtons: false
   ShowPostNavLinks: true
